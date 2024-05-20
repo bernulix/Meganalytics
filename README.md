@@ -1,1 +1,1 @@
-# Meganalytics
+# Ciencia de Datos para estudiantes
